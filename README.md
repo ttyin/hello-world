@@ -1,3 +1,3 @@
 # hello-world
-hello humans
+hello humans.
 i am sad tonight
